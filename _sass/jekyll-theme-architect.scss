@@ -79,7 +79,7 @@ header h2 {
 /*  #3df28b post nav */
 .box {
   width: 100%;
-  border: 1px solid dodgerblue;
+  border: 1px solid white;
   display: flex;
   flex-wrap: wrap;
   margin: 0.1rem;
@@ -99,7 +99,7 @@ header h2 {
   display: block;
   text-decoration: none;
   transition: all 0.2s ease-in-out;
-  border: 1px solid dodgerblue;
+  border: 1px solid white;
   padding: 1px;
   margin: 1px;
   background-color: #3df28b20;
@@ -130,7 +130,7 @@ header h2 {
 }
 
 .tupperware_col > * {
-  border: 1px solid #c9ff23;
+  border: 1px solid dodgerblue;
   border-radius: 1px;
   padding: 10px;
   flex-basis: 250px;
@@ -172,7 +172,7 @@ header h2 {
 
 .tupperware > * {
   display: block;
-  border: 1px solid #c9ff23;
+  border: 1px solid dodgerblue;
   border-radius: 1px;
   padding: 10px;
   flex-basis: 200px;
