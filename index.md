@@ -11,7 +11,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 [<video controls poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg" src="https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4" >](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
 
-@newshour @foxnews @nbcnews @cbs-news-data /Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
+@newshour @foxnews @nbcnews @cbs-news-data /[Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="@nasa-jpl @la-county-isd @cityoflosangeles @stateofcalifornia @nasa-giss @usatoday @newshour @United States Of America" />
 
