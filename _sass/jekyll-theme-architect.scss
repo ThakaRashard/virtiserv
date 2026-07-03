@@ -4,9 +4,13 @@
 
 /* LAYOUT STYLES */
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: "Ubuntu Sans", 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 15px;
+  font-optical-sizing: auto;
   font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
   line-height: 1.5;
   color: #666;
   background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
@@ -24,7 +28,7 @@ img {
 }
 
 img:hover {
-  transform: scale(1.05);
+  transform: scale(1.00);
 }
 
 a {
@@ -45,7 +49,7 @@ a:hover,
 
 
 a:visited {
-  color: #2879d0;
+  color: aqua;
 }
 
 header {
