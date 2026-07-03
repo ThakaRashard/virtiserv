@@ -51,69 +51,7 @@ github.com/mathjax/MathJax-docs _MathJax documentation. Beautiful math in all br
 
 <p>\[P(E) = {n \choose k} p^k (1-p)^{ n-k} \]</p>
 
-<h2>An Identity of Ramanujan</h2>
-
-<p>\[
-  \frac{1}{\left(\sqrt{\phi \sqrt{5}}-\phi\right) e^{\frac25 \pi}} =
-    1 + \dfrac{e^{-2\pi}}{
-      1 + \dfrac{e^{-4\pi}}{
-        1 + \dfrac{e^{-6\pi}}{
-          1 + \dfrac{e^{-8\pi}}{1+\ldots}
-        }
-      }
-    }
-\]</p>
-
-<h2>A Rogers-Ramanujan Identity</h2>
-
-<p>\[
-  1 + \frac{q^2}{(1-q)}+\frac{q^6}{(1-q)(1-q^2)}+\cdots =
-    \prod_{j=0}^{\infty}\frac{1}{(1-q^{5j+2})(1-q^{5j+3})},
-     \quad\quad \text{for $|q| < 1$}.
-\]</p>
-
-<h2>Maxwell's Equations</h2>
-
-<p>
-  \begin{align}
-    \nabla \times \vec{\mathbf{B}}\, - \frac{1}{c}\, \frac{\partial\vec{\mathbf{E}}}{\partial t}
-       & = \frac{4\pi}{c}\vec{\mathbf{j}} \\[3pt]
-    \nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \\[3pt]
-    \nabla \times \vec{\mathbf{E}}\, + \frac{1}{c}\, \frac{\partial\vec{\mathbf{B}}}{\partial t}
-        & = \vec{\mathbf{0}} \\[3pt]
-    \nabla \cdot \vec{\mathbf{B}} & = 0
-  \end{align}
-</p>
-
-<h2>In-line Mathematics</h2>
-
-<p>Finally, while display equations look good for a page of samples, the
-ability to mix math and text in a paragraph is also important.  This
-expression $\sqrt{3x-1}+(1+x)^2$ is an example of an inline equation.  As
-you see, MathJax equations can be used this way as well, without unduly
-disturbing the spacing between lines.</p>
- 
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-  <mi>x</mi> <mo>=</mo>
-  <mrow>
-    <mfrac>
-      <mrow>
-        <mo>−</mo>
-        <mi>b</mi>
-        <mo>±</mo>
-        <msqrt>
-          <msup><mi>b</mi><mn>2</mn></msup>
-          <mo>−</mo>
-          <mn>4</mn><mi>a</mi><mi>c</mi>
-        </msqrt>
-      </mrow>
-      <mrow> <mn>2</mn><mi>a</mi> </mrow>
-    </mfrac>
-  </mrow>
-  <mtext>.</mtext>
-</math>
-
-
+[more on virtiserv/computing](virtiserv.github.io/computing)
 
 
 JPL and the Space Age: Destination Moon [@nasa @whitehouse @blackgirlscode @nasa-jpl @stateofcalifornia @cityoflosangeles](https://youtu.be/UupndWl0G_I?si=uH9-o3RXaLqwpRUH) // [PDF @nasasTheSunand HEliosphere n Three Dimensions](https://stereo.gsfc.nasa.gov/img/stdt.pdf) // 
