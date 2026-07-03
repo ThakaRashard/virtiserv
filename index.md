@@ -9,6 +9,23 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 [Queen Latifah Opens Up About a Private Battle - Red Table Talk @foratlanta](https://www.youtube.com/watch?v=vgn4y83wXJg)
 
+
+# HTML
+[HTML Living Standard](https://html.spec.whatwg.org/multipage/) — Last Updated 3 July 2026 [@mdn](https://github.com/mdn)
+[ColorNAmes - w3schools.com](https://www.w3schools.com/tags/ref_colornames.asp)
+[https://fonts.google.com/](https://fonts.google.com/) @adobe i hope u guys are ok [I was looking for kuler.adobe.com/ functionality](http://web.archive.org/web/20250212005944/https://kuler.adobe.com/) and i know abt [color.adobe.com](color.adobe.com) for making swatches but the hex values are missing like the tool was downgraded and ad poisoned and i know that can be a sign of cyber attack @cisagov @fbicyber @nasa-jpl @whitehouse @deptofwar [color.adobe.com](https://color.adobe.com/) 
+
+
+<div class="tupperware" markdown="1">
+	
+[<video controls src="https://archive.org/download/longbeach_202605/000_SPACEBEACH_GoogleFontInstallForVirtiservBaeLAtriceRecording%202026-07-03%20121238.mp4" />](https://archive.org/download/longbeach_202605/000_SPACEBEACH_GoogleFontInstallForVirtiservBaeLAtriceRecording%202026-07-03%20121238.mp4)
+
+[<video controls src="https://archive.org/download/vid-20260411-163609-170/BuiltInWebFontsForSLoadingSpeedAndReducedVurnalbility_VirtiserLanaLatriceHArissKarenBASSRecording%202026-07-03%20SPACEBEACH_WEB_DEV_Rex152229.mp4" />](https://archive.org/download/vid-20260411-163609-170/BuiltInWebFontsForSLoadingSpeedAndReducedVurnalbility_VirtiserLanaLatriceHArissKarenBASSRecording%202026-07-03%20SPACEBEACH_WEB_DEV_Rex152229.mp4)
+
+</div>
+
+
+
 Writing Mathematics for MathJax        
 [@blackgirlscode @nasa-pds](https://github.com/mathjax/MathJax-demos-web)
 github.com/mathjax/MathJax-docs _MathJax documentation. Beautiful math in all browsers. Beautifully documented._ @la-county-isd 
@@ -70,13 +87,6 @@ _The Lana Rundown_
 <img alt="image" src="https://github.com/user-attachments/assets/f9541b39-efff-439a-8d29-f343bc2fb9b4" />
 
 ![https://oversight.house.gov/wp-content/themes/ogr/img/logo-main-oversight.svg](https://oversight.house.gov/wp-content/themes/ogr/img/logo-main-oversight.svg)
-
-# HTML
-[HTML Living Standard](https://html.spec.whatwg.org/multipage/) — Last Updated 3 July 2026 [@mdn](https://github.com/mdn)
-[ColorNAmes - w3schools.com](https://www.w3schools.com/tags/ref_colornames.asp)
-[https://fonts.google.com/](https://fonts.google.com/) @adobe i hope u guys are ok [I was looking for kuler.adobe.com/ functionality](http://web.archive.org/web/20250212005944/https://kuler.adobe.com/) and i know abt [color.adobe.com](color.adobe.com) for making swatches but the hex values are missing like the tool was downgraded and ad poisoned and i know that can be a sign of cyber attack @cisagov @fbicyber @nasa-jpl @whitehouse @deptofwar [https://color.adobe.com/](https://color.adobe.com/) 
-
-[<video controls src="https://archive.org/download/longbeach_202605/000_SPACEBEACH_GoogleFontInstallForVirtiservBaeLAtriceRecording%202026-07-03%20121238.mp4" />](https://archive.org/download/longbeach_202605/000_SPACEBEACH_GoogleFontInstallForVirtiservBaeLAtriceRecording%202026-07-03%20121238.mp4)
 
 
 <img width="29" height="60" alt="Screenshot 2026-07-03 120645" src="https://github.com/user-attachments/assets/b84a10d6-2356-453b-b88e-016a2dbfdea5" />
@@ -219,6 +229,7 @@ JPL and the Space Age: Destination Moon [@nasa @whitehouse @blackgirlscode @nasa
 @la-county-isd @cityoflosangeles @stateofcalifornia [@nasa-jpl](https://www.jpl.nasa.gov/news/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/?utm_source=iContact&utm_medium=email&utm_campaign=1-nasajpl&utm_content=spherex20260415) @blackgirlscode
 ![STEREO (Solar TErrestrial RElations Observatory) ](https://stereo.gsfc.nasa.gov/img2/stereo_gsfc_01.gif)
 [STEREO 3D Images and Movies @nasa-jpl](https://stereo.gsfc.nasa.gov/gallery/3dimages.shtml) [readAbout the STEREO Mission](https://stereo.gsfc.nasa.gov/mission/mission.shtml)
+
 # N.A.S.A. space station 
 @TheSpaceDevs @BlackGirlsCode @emit-sds @stateofcalifornia @cityoflosangeles
 Library of Congress Control Number: [2019642104](https://www.loc.gov/item/2019642104/)
@@ -234,13 +245,13 @@ Caption for frame no. 25: Chairman F. [James Sensenbrenner Jr](https://www.congr
 
 [<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/63400/63499v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/63400/63499v.jpg)
 
-<div class="tupperware" markdown="1">
+
 	
 [<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62766v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62766v.jpg)
 [<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62764v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62764v.jpg)
 [<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62900/62979v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62900/62979v.jpg)	
 
-</div>
+
 
 ![Mars_Pathfinder](https://burodestruct.net/1997/mars/gfx/snowmars3.gif)
 
