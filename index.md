@@ -44,7 +44,7 @@ gitGraph:
     commit
 </div>
 
-```
+```mermaid
 gitGraph
   commit
   commit
