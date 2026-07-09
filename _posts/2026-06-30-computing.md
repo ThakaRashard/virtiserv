@@ -8,6 +8,69 @@ mathjax: true
 
 
 
+
+
+# CSS Attribute selectors
+The CSS attribute selector matches elements based on the element having a given attribute explicitly set, with options for defining an attribute value or substring value match. [@mdn read](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/Attribute_selectors) @blackgirlscode 
+
+```css
+/* <a> elements with a title attribute */
+a[title] {
+  color: purple;
+}
+
+/* <a> elements with an href matching "https://example.org" */
+a[href="https://example.org"] {
+  color: green;
+}
+
+/* <a> elements with an href containing "example" */
+a[href*="example"] {
+  font-size: 2em;
+}
+
+/* <a> elements with an href ending ".org", case-insensitive */
+a[href$=".org" i] {
+  font-style: italic;
+}
+
+/* <a> elements whose class attribute contains the word "logo" */
+a[class~="logo"] {
+  padding: 2px;
+}
+```
+
+@nasa-jpl code review @nasa-pds 
+[@mdn](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Selectors)
+/* if you use the alt tag you can apply style to images by alt tag text assignment */
+
+```css
+  img[src*="Mars_Reconnaissance_Orbiter_insignia.png"] {width: 25%;padding: 4px;float: left;}
+  img[src*="Logo_of_the_United_States_Space_Force.png"] {width: 188px;padding: 4px;float: right;}
+/* img[src*="Mars_Reconnaissance_Orbiter_insignia.png"] {max-width: 250px;padding: 4px;float: right;} */
+img[alt="whiteslavery"] {
+  max-width: 15%;
+  float: right;
+}
+
+
+img[alt="whiteslavery40"] {
+  max-width: 40%;
+  transform: rotate(45deg);
+}
+img[src*="Midway_Games_logo"] {background: transparent
+  url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-white.gif)
+  center repeat; width: 100%;}
+img[src*="6071cc4b982fd393d892490ed7a702738c595099"] {background: transparent
+  url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-white.gif)
+  center repeat; width: 100%;}
+  img[src*="859740137800_cover.jpg/1200x1200bf-60.jpg"] {width: 25%; border: 5px solid #003da550;}
+img[src*="workflows/ci.yaml/badge.svg"] {width: min-content;}
+img[src*="https://badge.fury.io"] {width: min-content;}
+img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 15%;}
+```
+
+
 # MathJax : [demo](https://mathjax.github.io/MathJax-demos-web/page/tex-chtml.html)
  [https://mathjax.github.io/MathJax-demos-web/](https://mathjax.github.io/MathJax-demos-web/) 
  @nasa-pds @cityoflosangeles [talk.jekyllrb.com/t/jekyll-and-mathjax-how-to-configure-specific-inline-and-display-math/9551/8](https://talk.jekyllrb.com/t/jekyll-and-mathjax-how-to-configure-specific-inline-and-display-math/9551/8) // [talk.jekyllrb.com/t/jekyll-and-mathjax/5514/2](https://talk.jekyllrb.com/t/jekyll-and-mathjax/5514/2)
