@@ -3,7 +3,30 @@ layout: default
 ---
 
 [viking](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:vik:viking_lander_1:/vl_0001/i0xx/11i003.red) 
-[insight](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=insight_lander&gather.common.instrument=ICC&gather.common.product_type=ZPS)
+[insight](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=insight_lander&gather.common.instrument=ICC&gather.common.product_type=ZPS) + [_PressKit_@nasa-jpl @nbcnews @disney ](https://www.jpl.nasa.gov/news/press_kits/insight/launch/download/mars_insight_launch_presskit.pdf)
+
+![https://d2pn8kiwq2w21t.cloudfront.net/images/18-mission-current-InSight_adj.height-700.png](https://d2pn8kiwq2w21t.cloudfront.net/images/18-mission-current-InSight_adj.height-700.png)
+
+
+
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-insight01' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+[science. @nasa .gov/resource/`insights-final-selfie`/](https://science.nasa.gov/resource/insights-final-selfie/) 
+
+![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/6/26761_26761_PIA25287-clean-web.jpg?w=1200&h=675&fit=clip&crop=faces%2Cfocalpoint](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/6/26761_26761_PIA25287-clean-web.jpg?w=1200&h=675&fit=clip&crop=faces%2Cfocalpoint)
+
+
 
 ![https://live.staticflickr.com/4830/46064378111_a0bb42a82b_b.jpg one dollar @lacmta ? @nasa-pds ](https://live.staticflickr.com/4830/46064378111_a0bb42a82b_b.jpg)
 
@@ -11,6 +34,8 @@ layout: default
 
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/nasahqphoto/44248795710/in/photostream/lightbox/" title="Mars InSight Landing (NHQ201811260100)"><img src="https://live.staticflickr.com/4907/44248795710_aa1bcc11c8_3k.jpg"   alt=" @nasa-jpl @nasa-pds Mars InSight Landing (NHQ201811260100)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/InSight_Mission_Logo.svg/500px-InSight_Mission_Logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/InSight_Mission_Logo.svg/500px-InSight_Mission_Logo.svg.png)
 
 # KarenBass Cameos at [B.E.T](bet.com) Awards
 @blackgirlscode @whitehouse @cityoflosangeles @nasa-jpl 
@@ -21,7 +46,7 @@ layout: default
 @newshour @foxnews @nbcnews @cbs-news-data /[Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
 
 
-
+![https://upload.wikimedia.org/wikipedia/commons/3/3e/InSight_mission_patch_v1.png](https://upload.wikimedia.org/wikipedia/commons/3/3e/InSight_mission_patch_v1.png)
 
 [mapmaking1961](https://youtu.be/L7SJVBX7jxo?si=WtCk-MC2FB-v-f0C)
 
