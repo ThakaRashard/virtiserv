@@ -37,6 +37,10 @@ layout: default
 
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/InSight_Mission_Logo.svg/500px-InSight_Mission_Logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/InSight_Mission_Logo.svg/500px-InSight_Mission_Logo.svg.png)
 
+
+<img alt="image" src="https://github.com/user-attachments/assets/ded9d5f1-75b0-44c8-bc12-e7f63677ec6c" />
+
+
 # KarenBass Cameos at [B.E.T](bet.com) Awards
 @blackgirlscode @whitehouse @cityoflosangeles @nasa-jpl 
 
