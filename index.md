@@ -35,6 +35,8 @@ layout: default
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/nasahqphoto/44248795710/in/photostream/lightbox/" title="Mars InSight Landing (NHQ201811260100)"><img src="https://live.staticflickr.com/4907/44248795710_aa1bcc11c8_3k.jpg"   alt=" @nasa-jpl @nasa-pds Mars InSight Landing (NHQ201811260100)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
+![https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/InSight_Mission_Logo.svg/500px-InSight_Mission_Logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/InSight_Mission_Logo.svg/500px-InSight_Mission_Logo.svg.png)
+
 # KarenBass Cameos at [B.E.T](bet.com) Awards
 @blackgirlscode @whitehouse @cityoflosangeles @nasa-jpl 
 
