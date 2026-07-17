@@ -4,7 +4,7 @@ layout: default
 
 
 
-@usgs hi i dont know if i just felt an emf charge or its an earthquake @cbs-news-data @nbcnews @newshour [im here @nasa-jpl](https://www.bing.com/search?pglt=419&q=billi+jean+library&cvid=f1c52d1837d44e3e920c45881f77c3e4&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEDSAQgzMjYzajBqN6gCALACAA&FORM=ANNTA1&PC=U531&pq=billi+jean+library&mturn=1) this map is not populating @nasa-openscapes
+@usgs hi i dont know if i just felt an emf charge or its an earthquake @cbs-news-data @nbcnews @newshour [im here @nasa-jpl](https://www.bing.com/search?pglt=419&q=billi+jean+library&cvid=f1c52d1837d44e3e920c45881f77c3e4&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEDSAQgzMjYzajBqN6gCALACAA&FORM=ANNTA1&PC=U531&pq=billi+jean+library&mturn=1) this map is not populating @nasa-openscapes [earthquake.usgs.gov/earthquakes/map/?extent=32.83344,-123.55225&extent=40.72228,-106.06201&format=shakemap&listOnlyShown=true&showPopulationDensity=true&showUSFaults=true&showUSHazard=true&baseLayer=ocean](https://earthquake.usgs.gov/earthquakes/map/?extent=32.83344,-123.55225&extent=40.72228,-106.06201&format=shakemap&listOnlyShown=true&showPopulationDensity=true&showUSFaults=true&showUSHazard=true&baseLayer=ocean)
 
 <img alt="image" src="https://github.com/user-attachments/assets/c2ec0f98-cb19-48db-b9f7-72403e67377d" />
 
