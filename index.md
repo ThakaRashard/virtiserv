@@ -3,6 +3,9 @@ layout: default
 ---
 
 
+[alertwildfire.org/ @whitehouse `Search4ACamera @blackgirlscode @NASA-GiSS @NASA-JPL](https://www.alertwildfire.org/)
+<img alt="image @blackgirlscode @NASA-GiSS @NASA-JPL " src="https://github.com/user-attachments/assets/538bb660-1884-41e7-8235-f9b175a42344" />
+
 @nbcnews @newshour
 [Two growing wildfires force evacuations in Wasco, Wheeler counties - KATU](https://katu.com/news/local/antelope-placed-under-level-3-go-now-evacuation-warning-as-crosswhite-fire-grows-oregon-weather-lightning-wildfire-community-sheriff-residents)
 <img  alt="image" src="https://github.com/user-attachments/assets/4e1f2e79-c0eb-497a-893e-c3654cc65104" />
