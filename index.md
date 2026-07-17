@@ -7,6 +7,8 @@ layout: default
 [Two growing wildfires force evacuations in Wasco, Wheeler counties - KATU](https://katu.com/news/local/antelope-placed-under-level-3-go-now-evacuation-warning-as-crosswhite-fire-grows-oregon-weather-lightning-wildfire-community-sheriff-residents)
 <img  alt="image" src="https://github.com/user-attachments/assets/4e1f2e79-c0eb-497a-893e-c3654cc65104" />
 
+[Welcome to the Oregon Hazards Lab @nasa-pds @la-county-isd](https://ohaz.uoregon.edu/)
+![https://bpb-us-e1.wpmucdn.com/blogs.uoregon.edu/dist/f/16672/files/2024/01/OHAZ-Mural-Small-de9b66273622f2f1.png](https://bpb-us-e1.wpmucdn.com/blogs.uoregon.edu/dist/f/16672/files/2024/01/OHAZ-Mural-Small-de9b66273622f2f1.png)
 
 [firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,noaa21_crtc,earth;@-121.7,41.4,8.1z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,noaa21_crtc,earth;@-121.7,41.4,8.1z)
 @blackgirlscode idk who in oregon, my cousin was there for a long time trying to link so i know someone is upthere and would find this map useful @fbicyber @nasa-giss \
