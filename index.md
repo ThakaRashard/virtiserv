@@ -3,9 +3,23 @@ layout: default
 ---
 
 
+## NASA’s Psyche Mission Delivers Mars Flyby Data, Time-lapse Video
+[Read - @nasa-jpl @cityoflosangeles @whitehouse @CommerceGov](https://www.jpl.nasa.gov/news/nasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6_cH5-daLjg?si=bRsUR4hfTQo_4rj5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[<video controls poster="https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/FireTemperature/20261980246_GOES18-ABI-pnw-FireTemperature-1200x1200.jpg" src="https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/FireTemperature/GOES18-PNW-FireTemperature-600x600.mp4" >](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/FireTemperature/GOES18-PNW-FireTemperature-600x600.mp4)
+
 nslookup later [`https://sjud.senate.ca.gov`](https://sjud.senate.ca.gov/content/senate-judiciary-committee-policy-support-and-opposition-letters) // [@fecgov fec.gov/data/committee/C00718866/](https://www.fec.gov/data/committee/C00718866/) // [github https://github.com/fecgov](https://github.com/fecgov) `gail.ns.cloudflare.com.` , `yoxall.ns.cloudflare.com.` @blackgirlscode [toolbox.googleapps.com/apps/dig/#NS/](https://toolbox.googleapps.com/apps/dig/#NS/)
 <img alt="image" src="https://github.com/user-attachments/assets/4ee70946-a8aa-415a-a4d7-54ef1fdacad9" />
 
+@doug-newman-nasa @nasa-openscapes  i sent an email [mail.google.com/mail/u/0/#sent/KtbxLthpzVGRRlSqSdWpBzshxpBRbmWGFg](https://mail.google.com/mail/u/0/#sent/KtbxLthpzVGRRlSqSdWpBzshxpBRbmWGFg)
+
+```
+On Fri, Jul 17, 2026 at 11:21 AM Rashard Iman Kelly <holetoanotheruniverse40@gmail.com> wrote:
+@douglas.j.newman@nasa.gov someone is hijacking this message in long beach, im learning local diction @HollyJMitchell@bos.lacounty.gov  &&&& @karen.c.fox@nasa.gov this is the link from our AKami name servers https://www.jpl.nasa.gov/news/nasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video/ then in the email @Gordon, Seth W (JPL-5145)[JPL Employee] icptrack.com redirects it to a page that @lbpl_reference@lbpl.org cant process @jisaacman@shift4.com @senator@billnelson.senate.gov gm pete @Whs Pentagon Esd Mbx Secrev im just recovering from seeing either erika, chloe, or funky chunk brandy in faith evans makeup kissing  my body still healing @Caroline Hunter from being abandoned in the first place! @mayor@longbeach.gov hi this is a spacebeach . . i dont know what i can file these @dsnnow@jpl.nasa.gov / @earthdata-support@nasa.gov bc the mail is parsed. I can hear you guys a lot @nasa.arset@gmail.com @usn.ncr.dns.mbx.don-foia-pa@us.navy.mil @daryl.caudle@navy.mil over the strange frequency modulated powergrid... I think some fear solar bc of wht it would do to their social life telepathically, and i mean resonance not no spooky stone shop sht @lanajharris@gmail.com are you tinashe ? Im so confused i know there was a hand off, but im trying to link with the girl my age that had a job, you people are so reckless @press@hot97.com @info@hot97.com [[[[ @homiehelpline@power106.com jes bc they were the shit dont mean they the shit , but they have foul dns and hosting ill check on youguys later - ra5hard.github.io ]]]]
+https://click-1389932.icptrack.com/icp/relay.php?r=27768912&msgid=336923&act=N5PQ&c=1389932&pid=951321&destination=https%3A%2F%2Fwww.jpl.nasa.gov%2Fnews%2Fnasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video%3Futm_source%3DiContact%26utm_medium%3Demail%26utm_campaign%3D1-nasajpl%26utm_content%3Dlatest-20260717&cf=11365&v=e47b0c889fb4be6c06bd3576fffc278bb46b71026a5a214b9669f82fc90bd51c
+
+```
 <img alt="image" src="https://github.com/user-attachments/assets/d9f2c06c-fca0-436a-a790-92ac9182e099" />
 
 
