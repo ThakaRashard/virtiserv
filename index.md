@@ -2,10 +2,12 @@
 layout: default
 ---
 
+<img  alt="image" src="https://github.com/user-attachments/assets/e01d5855-2136-4072-bced-7ca99a52ef77" />
+
 
 [https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,noaa21_crtc,earth;@-121.88,42.92,9.10z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,noaa21_crtc,earth;@-121.88,42.92,9.10z)
 
-<img width="958" height="895" alt="FIRMS_24hrs,24hrs @-121 88,42 92,9 10z  (1)" src="https://github.com/user-attachments/assets/3ca44c07-eb40-4f0b-bc68-25c347e1f85a" />
+<img  alt="FIRMS_24hrs,24hrs @-121 88,42 92,9 10z  (1)" src="https://github.com/user-attachments/assets/3ca44c07-eb40-4f0b-bc68-25c347e1f85a" />
 
 [https://worldview.earthdata.nasa.gov/?v=-127.95239162963462,38.823848919276315,-113.88603802139964,45.74713233582946&as=2026-07-07-T00%3A00%3A00Z&ae=2026-07-17-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,VIIRS_NOAA20_Aerosol_Type_Deep_Blue_Best_Estimate,VIIRS_NOAA20_Aerosol_Type_Deep_Blue_Land_Ocean,MODIS_Terra_Thermal_Anomalies_Night(hidden),MODIS_Terra_Thermal_Anomalies_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_Night(hidden),VIIRS_NOAA20_Thermal_Anomalies_375m_Day(hidden),MODIS_Aqua_Thermal_Anomalies_Night(hidden),MODIS_Aqua_Thermal_Anomalies_Day(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Night(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Day(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&tr=fires_overview_2019&al=true&av=5&ab=on&t=2026-07-17-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-127.95239162963462,38.823848919276315,-113.88603802139964,45.74713233582946&as=2026-07-07-T00%3A00%3A00Z&ae=2026-07-17-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,VIIRS_NOAA20_Aerosol_Type_Deep_Blue_Best_Estimate,VIIRS_NOAA20_Aerosol_Type_Deep_Blue_Land_Ocean,MODIS_Terra_Thermal_Anomalies_Night(hidden),MODIS_Terra_Thermal_Anomalies_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_Night(hidden),VIIRS_NOAA20_Thermal_Anomalies_375m_Day(hidden),MODIS_Aqua_Thermal_Anomalies_Night(hidden),MODIS_Aqua_Thermal_Anomalies_Day(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Night(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Day(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&tr=fires_overview_2019&al=true&av=5&ab=on&t=2026-07-17-T00%3A00%3A00Z) 
 
