@@ -4,6 +4,11 @@ layout: default
 
 
 
+@usgs hi i dont know if i just felt an emf charge or its an earthquake @cbs-news-data @nbcnews @newshour [im here @nasa-jpl](https://www.bing.com/search?pglt=419&q=billi+jean+library&cvid=f1c52d1837d44e3e920c45881f77c3e4&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEDSAQgzMjYzajBqN6gCALACAA&FORM=ANNTA1&PC=U531&pq=billi+jean+library&mturn=1) this map is not populating @nasa-openscapes
+
+<img alt="image" src="https://github.com/user-attachments/assets/c2ec0f98-cb19-48db-b9f7-72403e67377d" />
+
+
 ## NASA’s Psyche Mission Delivers Mars Flyby Data, Time-lapse Video
 - [Read - @nasa-jpl @cityoflosangeles @whitehouse @CommerceGov](https://www.jpl.nasa.gov/news/nasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video/)
 - [Watch - youtube.com/watch?v=6_cH5-daLjg&t=4s](https://www.youtube.com/watch?v=6_cH5-daLjg&t=4s)
