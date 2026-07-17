@@ -2,6 +2,19 @@
 layout: default
 ---
 
+
+
+## NASA’s Psyche Mission Delivers Mars Flyby Data, Time-lapse Video
+- [Read - @nasa-jpl @cityoflosangeles @whitehouse @CommerceGov](https://www.jpl.nasa.gov/news/nasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video/)
+- [Watch - youtube.com/watch?v=6_cH5-daLjg&t=4s](https://www.youtube.com/watch?v=6_cH5-daLjg&t=4s)
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6_cH5-daLjg?si=bRsUR4hfTQo_4rj5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[https://svs.gsfc.nasa.gov/31395/](https://svs.gsfc.nasa.gov/31395/)
+
+![https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031395/Psyche_trajectory.png](https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031395/Psyche_trajectory.png)
+
+
 ## Survey Layering and Faulting in Layered Deposits in Candor Chasma
 [uahirise.org/PSP_001377_1685](https://www.uahirise.org/PSP_001377_1685)
 ![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/PSP/ORB_001300_001399/PSP_001377_1685/PSP_001377_1685_RED.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/PSP/ORB_001300_001399/PSP_001377_1685/PSP_001377_1685_RED.abrowse.jpg)
@@ -75,12 +88,6 @@ blackenterprise.com.	600	IN	NS	ns-824.awsdns-39.net.
 
 <img width="443" height="407" alt="nasa-worldview-2026 JUL 05-to-2026 JUL 17 (1)" src="https://github.com/user-attachments/assets/ddf81b9d-d116-472d-99d9-89f4af019b19" />
 
-
-## NASA’s Psyche Mission Delivers Mars Flyby Data, Time-lapse Video
-- [Read - @nasa-jpl @cityoflosangeles @whitehouse @CommerceGov](https://www.jpl.nasa.gov/news/nasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video/)
-- [Watch - youtube.com/watch?v=6_cH5-daLjg&t=4s](https://www.youtube.com/watch?v=6_cH5-daLjg&t=4s)
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6_cH5-daLjg?si=bRsUR4hfTQo_4rj5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [<video controls poster="https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/FireTemperature/20261980246_GOES18-ABI-pnw-FireTemperature-1200x1200.jpg" src="https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/FireTemperature/GOES18-PNW-FireTemperature-600x600.mp4" >](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/FireTemperature/GOES18-PNW-FireTemperature-600x600.mp4)
 
