@@ -6,6 +6,9 @@ layout: default
 # Yesterdays Quake
 @usgs idk what geology department i report to @doug-newman-nasa but i felt an earthquake yesterday and i think it was [`ThisOne - CLickHere`](https://earthquake.usgs.gov/earthquakes/eventpage/ci40656850/executive) 
 
+<img   alt="image" src="https://github.com/user-attachments/assets/b8251473-495f-4894-ae5c-6da7fb3c7459" />
+
+
 <img   alt="image" src="https://github.com/user-attachments/assets/b788f30f-0c12-42e4-8377-d8a7c725ff05" />
 this one <img  alt="image" src="https://github.com/user-attachments/assets/54efb4d5-f823-46c7-8c1b-caae068af237" />
 
